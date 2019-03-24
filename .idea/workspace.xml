@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076b63f1-2c60-49ed-b399-06dbe8df3387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/football_explore.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/football_explore.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_pos_home_goals.png" beforeDir="false" afterPath="$PROJECT_DIR$/home_pos_home_goals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odds_scatter.png" beforeDir="false" afterPath="$PROJECT_DIR$/odds_scatter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pca1Only.png" beforeDir="false" afterPath="$PROJECT_DIR$/pca1Only.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pca_homeodds.png" beforeDir="false" afterPath="$PROJECT_DIR$/pca_homeodds.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/football_explore.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="12" />
             </state>
           </provider>
         </entry>
@@ -40,7 +39,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="5" />
+    <option name="x" value="305" />
+    <option name="y" value="311" />
     <option name="width" value="1185" />
     <option name="height" value="1105" />
   </component>
@@ -64,7 +64,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../machine_learning/Coursework/code" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,12 +114,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -134,10 +134,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/football_explore.ipynb">
+    <entry file="file://$PROJECT_DIR$/../../../machine_learning/Coursework/code/cw1_rough_work.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/football_explore.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
         </state>
       </provider>
     </entry>
